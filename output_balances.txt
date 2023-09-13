@@ -1,0 +1,417 @@
+Ethereum Address: 0x1466440c19c53b54aA21E30FD9e90c2aC00CD1e3
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'error', 'description': "'SSLError' object has no attribute 'get'"}
+
+Ethereum Address: 0x2d2b7a1c188D9DeCE853433fE5A2720c8957b83e
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x48baA4b6c475A69f83fdf0913AD209d6CFD82D1b
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xfBb577614ceFac33Be62b49eB31b83237E6414b0
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x189236b3720E198667C9B4A2989ad23b52eD52Bf
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'error', 'description': "'SSLError' object has no attribute 'get'"}
+
+Ethereum Address: 0xAF41549F010f8e98dbB41f17C0427076DB7B1948
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xbD42187A1876B0c90d438aBE467f6237d8533Fc4
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xf15a95D7f8c54E74e9a8b35e9a266D3863dA94F2
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'error', 'description': "'SSLError' object has no attribute 'get'"}
+
+Ethereum Address: 0xA7313c048D5D3d463dD6E7D7613dDCCA5e2533B6
+ETH Balance: {'status': 'error', 'description': "'SSLError' object has no attribute 'get'"}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x6994613D7eb4759F9EC5200e75D8334445387Ea6
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x3fe4Ea4d28A74E957a52B105268cC2a66380E8Df
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x5d964a7ffc177911470ab02d675B9E07537BBF1C
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x35bA746B1d08Edcb31434B1350fa841Ec04CFccD
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x1C65fE09aF4e3622d70eeC03e4B16247bB72FC56
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xfee7526Fd2Dad02778975c805132F03eBf7D8dd9
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x890109b3498ce73276B772C9E475b58F3d73E1FF
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x2FbdfBC907301Cf8608B92A99f65cDb3E4A980d3
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xd4BB37414BD3E3540dd086B867e450fb107562B1
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x1f0E00BE6fa3E712A6c3Dc00455Ce84FC796cB3A
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x4eF13D09581ddA6B931889805D8143ba560465d9
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xd7344AaD29F2e667e42a3Da38a7AB7B9E2F477F9
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x82D7df10e7995Fc155cB3f2ABD65CFBF7534C753
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'error', 'description': "'ConnectionError' object has no attribute 'get'"}
+
+Ethereum Address: 0xAa648c4c8D0E45221909cfAc200f6D0DB87E559c
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x36AbE013aa072641D6C723b6240d3323aA98f0B2
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'error', 'description': "'SSLError' object has no attribute 'get'"}
+
+Ethereum Address: 0xa83eca51e3A5dCf88AeDd736f83876b2BF6f3cA4
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x4b1BC53649BcE1B486129e47b359B3CC8bb9434C
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x982aFE2f3D83431D69d6e1A964517Ce2C061001C
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x4E2ec2259343144eDf8D5353DAdf79A427A77b03
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x63569224528c6B744F03BC09Df123412Fc8e95fe
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x26BE3A16B369E9e58eFc3905217A2A453e4f0334
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x73E3Fff5773823988eCCb25D39595Bd2FC925880
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x0fCD47072A05e0A2B5f9A650dCC89900E324185b
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x0Ba1BE0fDCa0198f28C81d7b4f8ab4BA155c03ca
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xE3cbAc245fDBbAE3C13CAE8Bfa3415a332398b51
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x6aaa8d8550FD20d45C9bF77b1aA0100886cb85eE
+ETH Balance: {'status': 'error', 'description': "'ConnectionError' object has no attribute 'get'"}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x6A70dd7b6e99fa3135fA8CF94F6991b0b5eFe580
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xdB4d96995867dAabc6d9b7825794e642fEc83D78
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xE525430a05bC90030dC5879953eE204EF8C92a68
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x7a89eF433bC49597075a3B69351aE02598647819
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xFacD36273aCEe4B3f5D047a7FF485C257B4B86BE
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x9e647d5b193eaf7263D16d3ED36E7FC51c7Fd240
+ETH Balance: {'status': 'error', 'description': "'SSLError' object has no attribute 'get'"}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x80D61A31E9495AE3C87Ffd34e1EeCe7c14042E16
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x543E4A949337c4Cc31579BAfc0c87d17F9B8d83d
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x2189de53Fb004E358937Eb3c4AC89391B960bC46
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x8B97CbB184E1fd4BBa89121b594D0E575f4cD451
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'error', 'description': "'SSLError' object has no attribute 'get'"}
+
+Ethereum Address: 0x29Ab385aF91E0b5E62b18195Ab4f39BDf85D9a79
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xde0aF49a9b5EFf16f71CBD5545680F76356fD95d
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x5997287aEEFa36Ca220FC753C1A1ffA4fCc8bB6D
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xd40504555947500374612cE36EA843294F288019
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xFCFc60191C3c8C6dBA1347144eE3FDAfc2Ef3B5a
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xf7243A12ab16B9940909584CB212348cAF42611c
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xF2DFBF3526827bc47217b4c31E3664b7fC179b88
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x8F37e12BfDccDAfd300687F38990Cc019669b4EB
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x0213A8F8A5d00B177CeB73dEc5Eb7F93E7A83199
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x40C81B6C955FFB09e6e407C0Fe0c13e91B733C95
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x5988a5173aC7f132BEeF76Ce9A067eA8c4f9f055
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x0EE5aBAfB5cdeC229270861520A8c3116D58b80a
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x18cD7AFb37C6d9EfD25ECA2Eaf7a739126E52C2A
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x7B26A1C31d8C721CFDC73f8eFdaF9bF873a711bF
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x5A460e4ef8f3BCDcfd5391f8717Bb9Fc2519dd0e
+ETH Balance: {'status': 'error', 'description': "'SSLError' object has no attribute 'get'"}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xf5D776669A2153c6841A389A4478b00105C44A74
+ETH Balance: {'status': 'error', 'description': "'SSLError' object has no attribute 'get'"}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xB23b4A8e390D3Eb05286A369864A8f051730c7df
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xA3f46C6153540DfF6B6286419D00857272487719
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xCD822C405523E0633F46e022Df762181DF0B149e
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xa50EBFcB1B15C9187c5AD6fdbd7C7fc0aD20a04e
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x84B05db11bE3D53dd4d503731772DFf47c4cb834
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x3Eb426F9f227937aD013D2F5E78d2919be365F4E
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xFbBac9fC779C9aCbF6EB79e4e9e9dFFF57CAb804
+ETH Balance: {'status': 'error', 'description': "'SSLError' object has no attribute 'get'"}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x2DA48f94AaCa0BebA80A27270F77229CB93EaBc6
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xc222eC44203170A9415447b4cf69B90760C172B3
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xd4C05B843e16A690F2c8ABbA11d275B726a7c8Bb
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x50842E14be837FBa2863A0151Fd61290D5Df260C
+ETH Balance: {'status': 'error', 'description': "'SSLError' object has no attribute 'get'"}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x8720d175f938Da8a9FAE3c3064a24d69c9D9Aa83
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xd1a6caBA642a25b2A70D604fB949ddA81591D7d0
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x133E792405A88A1599803c25bDEe04244779B5Ee
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xaf2D2152441528229FfA7004429458fbc250571B
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x883968898D73A3dcFA2dd1b95c15441E0D43E899
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x0cc6CE7885B623CFeE9d9D19285e9C5D872b89CE
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xCB5a90Eb00Ec0776B21FAa93a723195C78514410
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xACE6860105060131BdD4De6Bd873e9aa4A37880c
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xf2ed145D95E2D3F10B7Dc80E462A6002a90c0DD1
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x7a10cCd2C32E5FcfefC450876eFDF7a6174F4A26
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x81F2e5d51CE6F1f2aa542a7CB07712afCA1B14C1
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x4313285583D682F6Cb556C1C6d94513B6b08ac92
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x903A746367cbA788a552Ff44253ED1c3B424Ae03
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x055e93468f53Fc0FDbA8348496aB57d493348FE9
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xDD231C5CC0204d1edEf7eaddbc0A265535Bbd345
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'error', 'description': "'SSLError' object has no attribute 'get'"}
+
+Ethereum Address: 0x3B071c8b663c91743Ee774b27A3A53bbF441B33c
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xE25f4F0D23566FEC64BE6E6Aa66E4e1526AFd241
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x9ec67AE2C98856E4aD24caa2835bB73B0538a7E7
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xb7FC0444dA2f51d5F9514dCC2cCE2564b0b0E9ff
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xc843A4D83a09b8605aAB306f2E7713eBfF23668B
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x0045591CA3D75da67aD3b703fb1F2E645192C3c3
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xe2a426E9E21aadCe665357190dA2F192B74Fe73E
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x8899294a1CC8C5216b6594cf0b47Aa26665e8a21
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x1d23dc810028940965c27fc7c85d5310E5888b17
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xBA7DCd08323cE188d74e4D24c9Da8B61b411740D
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'error', 'description': "'SSLError' object has no attribute 'get'"}
+
+Ethereum Address: 0x88BA8a58Aa622dD9D61747EEd551992597Fbc955
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xe61487eDE27707BbE9Fce77Ced1bf9F40804a523
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xA10965A125bafF8583cBfC761D3A67c75E6AfDE6
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x54C141e8ed30D879a7942F7da121416fD63aeAe9
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0xD29faeC8009e21774faCF59db0A6c42e2B1f1d65
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x593Df7F21F6F8F348e6C8d6b78894c82E188f0D8
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x13Ca5b32Be1344b47C484F834735f0E3c483ADA4
+ETH Balance: {'status': 'ok', 'name': 'Ethereum', 'balance': 0.0, 'symbol': 'ETH'}
+OMG Token Balance: {'status': 'ok', 'name': 'OmiseGO', 'balance': 0.0, 'symbol': 'OMG'}
+
+Ethereum Address: 0x7581051Aec878a7990b7AD9ADBe17dA1BE6f0560
